@@ -1,0 +1,16 @@
+{
+  "name": "catena",
+  "version": "1.0.0",
+  "description": "catena_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Sitati",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "cypress-mochawesome-reporter": "^3.0.1",
+    "mochawesome": "^7.1.3"
+  }
+}
